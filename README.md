@@ -1,7 +1,8 @@
-(https://media.licdn.com/dms/image/D5616AQFB-Xzc_xW4Qw/profile-displaybackgroundimage-shrink_350_1400/0/1718265073080?e=1723680000&v=beta&t=hBce3jynIuXDwzGqkQEbVPjCN_CAs7Ui08oqomhPCR8)
+![Back-End Developer (Django)](https://media.licdn.com/dms/image/D5616AQFB-Xzc_xW4Qw/profile-displaybackgroundimage-shrink_350_1400/0/1718265073080?e=1723680000&v=beta&t=hBce3jynIuXDwzGqkQEbVPjCN_CAs7Ui08oqomhPCR8)
+
 ### Hi there 👋, I'm Md Kazi Ashik Ahmed 
 #### Back-End Developer (Django)
-![Back-End Developer (Django)]
+
 
 Creative and detail-oriented professional with a strong foundation in Python, Django, C/C++, OOP, and relational databases. Equipped with a solid understanding of back-end development principles, I specialize in building visually appealing and user-friendly websites.
 
