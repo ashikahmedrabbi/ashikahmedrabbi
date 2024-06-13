@@ -22,8 +22,5 @@ Skills: Django / Python/ JS / HTML / CSS / Bootstrap / Tailwindcss / PHP/ MySql
 
 ![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/ashikahmedrabbi/contributions?format=svg&private=true)  
 
-![GitHub metrics](https://metrics.lecoq.io/ashikahmedrabbi)  
-
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=ashikahmedrabbi)  
-
 
