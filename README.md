@@ -36,3 +36,6 @@ Creative and detail-oriented professional with a strong foundation in Python, Dj
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=ashikahmedrabbi)  
 
+<img src="https://raw.githubusercontent.com/ashikahmedrabbi/ashikahmedrabbi/output/snake.svg" alt="Snake animation" />
+
+###
