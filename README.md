@@ -34,7 +34,7 @@ Creative and detail-oriented professional with a strong foundation in Python, Dj
 
 ![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/ashikahmedrabbi/contributions?format=svg&private=true)  
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=ashikahmedrabbi)  
+![GitHub streak stats](https://streak-stats.demolab.com/?user=ashikahmedrabbi).
 
 <img src="https://raw.githubusercontent.com/ashikahmedrabbi/ashikahmedrabbi/output/snake.svg" alt="Snake animation" />
 
