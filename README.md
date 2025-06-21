@@ -1,39 +1,150 @@
-![Back-End Developer (Django)](https://media.licdn.com/dms/image/D5616AQFB-Xzc_xW4Qw/profile-displaybackgroundimage-shrink_350_1400/0/1718265073080?e=1723680000&v=beta&t=hBce3jynIuXDwzGqkQEbVPjCN_CAs7Ui08oqomhPCR8)
+![1718265073080](https://github.com/user-attachments/assets/46463b70-3baf-4cc2-8624-bc87fe80750f)
 
-### Hi there 👋, I'm Md Kazi Ashik Ahmed 
-#### Back-End Developer (Django)
+# 👋 Hi, I'm Md Kazi Ashik Ahmed
 
+### 🧠 Back-End Developer | Django Enthusiast | QA & Automation Lover | WordPress & Shopify Customizer
 
-Creative and detail-oriented professional with a strong foundation in Python, Django, C/C++, OOP, and relational databases. Equipped with a solid understanding of back-end development principles, I specialize in building visually appealing and user-friendly websites.
+🎯 I transform real-world problems into logical backend solutions using Django and Python. Passionate about API development, database architecture, automation testing, and helping businesses thrive online.
 
-- 🌱 I’m currently learning React JS 
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/ashikahmedrabbi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ashikahmedrabbi" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/ashikahmedrabbi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ashikahmedrabbi" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/ashikahmedrabbi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/ashikahmedrabbi/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/ashikahmedrabbi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/ashikahmedrabbi" height="30" width="40" /></a>
-<a href="https://www.behance.net/https://www.behance.net/ashikahmedarnob" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="https://www.behance.net/ashikahmedarnob" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/channel/uc1ltyyrzh6yjgk_mstixraw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/uc1ltyyrzh6yjgk_mstixraw" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/ashikahmedrabbi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/ashikahmedrabbi" height="30" width="40" /></a>
+### 🚀 Tech Stack & Tools
+
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python\&logoColor=white\&style=flat)
+![Django](https://img.shields.io/badge/-Django-092E20?logo=django\&logoColor=white\&style=flat)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql\&logoColor=white\&style=flat)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql\&logoColor=white\&style=flat)
+![SQLite](https://img.shields.io/badge/-SQLite-003B57?logo=sqlite\&logoColor=white\&style=flat)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5\&logoColor=white\&style=flat)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3\&logoColor=white\&style=flat)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript\&logoColor=black\&style=flat)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwind-css\&logoColor=white\&style=flat)
+![React (Learning)](https://img.shields.io/badge/-React-61DAFB?logo=react\&logoColor=black\&style=flat)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git\&logoColor=white\&style=flat)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux\&logoColor=black\&style=flat)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman\&logoColor=white\&style=flat)
+![Playwright](https://img.shields.io/badge/-Playwright-2EAD33?logo=playwright\&logoColor=white\&style=flat)
+
+---
+
+### 💼 Core Expertise
+
+* ✅ Django-based Backend Systems
+* ✅ REST API Design & Integration
+* ✅ Database Modeling (PostgreSQL, MySQL)
+* ✅ QA Automation (Playwright, WebDriverIO, Selenium)
+* ✅ WordPress & Shopify Custom Solutions
+* ✅ API Testing (Postman, JMeter)
+
+---
+
+### 🛠️ Currently Exploring
+
+* ⚛️ ReactJS for frontend magic
+* 🤖 Machine Learning with scikit-learn & TensorFlow
+* 🧪 Automation best practices and CI/CD integration
+
+---
+
+### 🧪 Software Quality Assurance
+
+> **I test as I build.**
+
+I’m skilled in manual and automated QA practices using:
+
+* 🔹 Selenium & WebDriverIO
+* 🔹 Playwright (JavaScript)
+* 🔹 API Testing via Postman & JMeter
+
+My SQA mindset ensures reliability, speed, and stability from the first commit.
+
+---
+
+### 🌐 CMS & E-Commerce
+
+* 🧩 WordPress Theme Customization
+* 🛍 Shopify Product & Storefront Setup
+* 🔍 SEO, Speed Optimization, & User Experience
+
+---
+
+### 🚀 Highlight Projects
+
+* **Surokkha** – Vaccine Simulation Platform (Django, JWT, Scalable Backend)
+* **BrainWave** – Tutor-Student Portal (Role-based Permissions + Elegant UI)
+
+---
+
+### 📘 Education
+
+**B.Sc. in Computer Science & Engineering**
+📍 Bangladesh University of Business and Technology (BUBT)
+📊 CGPA: 3.63 / 4.00
+
+---
+
+### 📚 Lifelong Learning
+
+* ☁️ Deployment, Monitoring & Cloud Infrastructure
+* ⚙️ Backend Optimization Techniques
+* 💡 Full Stack Integration (React + Django)
+
+---
+
+### 📈 GitHub Showcase
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ashikahmedrabbi&show_icons=true&theme=tokyonight&count_private=true" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashikahmedrabbi&layout=compact&theme=tokyonight" width="49%" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ashikahmedrabbi&theme=tokyonight" width="99%" />
+</p>
 
+---
 
+### 🏆 GitHub Trophies
 
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> 
+[![Trophy](https://github-profile-trophy.vercel.app/?username=ashikahmedrabbi\&theme=onedark\&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ashikahmedrabbi)](https://github.com/ryo-ma/github-profile-trophy)
+---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashikahmedrabbi)](https://github.com/anuraghazra/github-readme-stats)
+### 🌍 Let's Connect
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ashikahmedrabbi&show_icons=true&count_private=true)  
+<p align="left">
+  <a href="https://linkedin.com/in/ashikahmedrabbi" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" />
+  </a>
+  <a href="https://twitter.com/ashikahmedrabbi" target="_blank">
+    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge" />
+  </a>
+  <a href="https://facebook.com/ashikahmedrabbi" target="_blank">
+    <img src="https://img.shields.io/badge/-Facebook-1877F2?logo=facebook&logoColor=white&style=for-the-badge" />
+  </a>
+  <a href="https://instagram.com/ashikahmedrabbi" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" />
+  </a>
+  <a href="https://youtube.com/channel/UC1LTYYrZh6YJgk_MSTIXRaw" target="_blank">
+    <img src="https://img.shields.io/badge/-YouTube-FF0000?logo=youtube&logoColor=white&style=for-the-badge" />
+  </a>
+  <a href="https://hackerrank.com/profile/ashikahmedrabbi" target="_blank">
+    <img src="https://img.shields.io/badge/-Hackerrank-2EC866?logo=hackerrank&logoColor=white&style=for-the-badge" />
+  </a>
+  <a href="https://www.behance.net/ashikahmedarnob" target="_blank">
+    <img src="https://img.shields.io/badge/-Behance-1769FF?logo=behance&logoColor=white&style=for-the-badge" />
+  </a>
+</p>
 
-![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/ashikahmedrabbi/contributions?format=svg&private=true)  
+---
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=ashikahmedrabbi).
+### 🌟 Fun Fact
 
+> I don’t just code—I design systems, test logic, and ensure performance. From Django APIs to pixel-perfect WordPress themes, I love building the **engine behind beautiful tech**.
 
+---
+
+_🔁 Available for freelance, remote roles, or tech collaborations in:_
+- Django & Backend API Development  
+- QA Automation Projects  
+- WordPress / Shopify Customization 
