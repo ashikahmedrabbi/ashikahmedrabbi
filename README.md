@@ -7,7 +7,25 @@
 🎯 I transform real-world problems into logical backend solutions using Django and Python. Passionate about API development, database architecture, automation testing, and helping businesses thrive online.
 
 ---
+### 💼 Work Experience
 
+#### <img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/867eea71-94e2-4248-9049-662b1198a9ab" /> **Brain Station 23** — QA Engineer Trainee
+
+📅 **Sep 2025 – Present | Dhaka, Bangladesh**
+
+* Manual testing & defect reporting for web applications
+* Executed test cases and documented outcomes
+* Collaborated with QA team for quality improvements
+* Exploring **NopCommerce** and enterprise QA workflow practices
+
+#### <img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/63df0629-4a03-4216-b5d5-e43c97dc9ade" /> **AppDevs** — Junior SQA Engineer (Intern)
+
+📅 **Aug 2025 – Aug 2025 | Mirpur DOHS**
+
+* Performed manual testing across multiple modules
+* Bug reporting & execution of test scenarios
+* Worked closely with teammates to enhance testing workflows
+---
 ### 🚀 Tech Stack & Tools
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python\&logoColor=white\&style=flat)
